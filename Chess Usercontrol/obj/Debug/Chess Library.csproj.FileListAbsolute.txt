@@ -1,0 +1,56 @@
+C:\Users\j4yd13\Downloads\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\bin\Debug\Chess Usercontrol.dll
+C:\Users\j4yd13\Downloads\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\bin\Debug\Chess Usercontrol.pdb
+C:\Users\j4yd13\Downloads\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess Library.csprojAssemblyReference.cache
+C:\Users\j4yd13\Downloads\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess_Usercontrol.frmMessageBox.resources
+C:\Users\j4yd13\Downloads\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess_Usercontrol.frmPromotion.resources
+C:\Users\j4yd13\Downloads\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess_Usercontrol.Properties.Resources.resources
+C:\Users\j4yd13\Downloads\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess_Usercontrol.UcCapturedPieces.resources
+C:\Users\j4yd13\Downloads\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess_Usercontrol.UcChessBoard.resources
+C:\Users\j4yd13\Downloads\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess_Usercontrol.UcChessCell.resources
+C:\Users\j4yd13\Downloads\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess_Usercontrol.UcChessPiece.resources
+C:\Users\j4yd13\Downloads\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess_Usercontrol.UcMovesHistory.resources
+C:\Users\j4yd13\Downloads\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\DigitalClock.UcCountDownTimer.resources
+C:\Users\j4yd13\Downloads\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess Library.csproj.GenerateResource.cache
+C:\Users\j4yd13\Downloads\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess Usercontrol.dll
+C:\Users\j4yd13\Downloads\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess Usercontrol.pdb
+D:\Class BDA3T\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\bin\Debug\Chess Usercontrol.dll
+D:\Class BDA3T\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\bin\Debug\Chess Usercontrol.pdb
+D:\Class BDA3T\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess Library.csprojAssemblyReference.cache
+D:\Class BDA3T\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess_Usercontrol.frmMessageBox.resources
+D:\Class BDA3T\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess_Usercontrol.frmPromotion.resources
+D:\Class BDA3T\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess_Usercontrol.Properties.Resources.resources
+D:\Class BDA3T\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess_Usercontrol.UcCapturedPieces.resources
+D:\Class BDA3T\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess_Usercontrol.UcChessBoard.resources
+D:\Class BDA3T\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess_Usercontrol.UcChessCell.resources
+D:\Class BDA3T\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess_Usercontrol.UcChessPiece.resources
+D:\Class BDA3T\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess_Usercontrol.UcMovesHistory.resources
+D:\Class BDA3T\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\DigitalClock.UcCountDownTimer.resources
+D:\Class BDA3T\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess Library.csproj.GenerateResource.cache
+D:\Class BDA3T\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess Usercontrol.dll
+D:\Class BDA3T\PlayChess\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess Usercontrol.pdb
+C:\Users\j4yd13\Desktop\Deadline\Chess Usercontrol\obj\Debug\Chess Library.csprojAssemblyReference.cache
+C:\Users\j4yd13\Desktop\Deadline\Chess Usercontrol\obj\Debug\Chess_Usercontrol.frmMessageBox.resources
+C:\Users\j4yd13\Desktop\Deadline\Chess Usercontrol\obj\Debug\Chess_Usercontrol.Properties.Resources.resources
+C:\Users\j4yd13\Desktop\Deadline\Chess Usercontrol\obj\Debug\Chess_Usercontrol.UcCapturedPieces.resources
+C:\Users\j4yd13\Desktop\Deadline\Chess Usercontrol\obj\Debug\Chess_Usercontrol.UcChessBoard.resources
+C:\Users\j4yd13\Desktop\Deadline\Chess Usercontrol\obj\Debug\Chess_Usercontrol.UcChessCell.resources
+C:\Users\j4yd13\Desktop\Deadline\Chess Usercontrol\obj\Debug\Chess_Usercontrol.UcChessPiece.resources
+C:\Users\j4yd13\Desktop\Deadline\Chess Usercontrol\obj\Debug\DigitalClock.UcCountDownTimer.resources
+C:\Users\j4yd13\Desktop\Deadline\Chess Usercontrol\obj\Debug\Chess Library.csproj.GenerateResource.cache
+C:\Users\j4yd13\Desktop\Deadline\Chess Usercontrol\obj\Debug\Chess Usercontrol.dll
+C:\Users\j4yd13\Desktop\Deadline\Chess Usercontrol\obj\Debug\Chess Usercontrol.pdb
+C:\Users\j4yd13\Desktop\Deadline\Chess Usercontrol\bin\Debug\Chess Usercontrol.dll
+C:\Users\j4yd13\Desktop\Deadline\Chess Usercontrol\bin\Debug\Chess Usercontrol.pdb
+D:\Class BDA3T\Deadline\Chess Usercontrol\bin\Debug\Chess Usercontrol.dll
+D:\Class BDA3T\Deadline\Chess Usercontrol\bin\Debug\Chess Usercontrol.pdb
+D:\Class BDA3T\Deadline\Chess Usercontrol\obj\Debug\Chess Library.csprojAssemblyReference.cache
+D:\Class BDA3T\Deadline\Chess Usercontrol\obj\Debug\Chess_Usercontrol.frmMessageBox.resources
+D:\Class BDA3T\Deadline\Chess Usercontrol\obj\Debug\Chess_Usercontrol.Properties.Resources.resources
+D:\Class BDA3T\Deadline\Chess Usercontrol\obj\Debug\Chess_Usercontrol.UcCapturedPieces.resources
+D:\Class BDA3T\Deadline\Chess Usercontrol\obj\Debug\Chess_Usercontrol.UcChessBoard.resources
+D:\Class BDA3T\Deadline\Chess Usercontrol\obj\Debug\Chess_Usercontrol.UcChessCell.resources
+D:\Class BDA3T\Deadline\Chess Usercontrol\obj\Debug\Chess_Usercontrol.UcChessPiece.resources
+D:\Class BDA3T\Deadline\Chess Usercontrol\obj\Debug\DigitalClock.UcCountDownTimer.resources
+D:\Class BDA3T\Deadline\Chess Usercontrol\obj\Debug\Chess Library.csproj.GenerateResource.cache
+D:\Class BDA3T\Deadline\Chess Usercontrol\obj\Debug\Chess Usercontrol.dll
+D:\Class BDA3T\Deadline\Chess Usercontrol\obj\Debug\Chess Usercontrol.pdb
